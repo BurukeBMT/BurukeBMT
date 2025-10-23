@@ -25,7 +25,7 @@ With experience in the **MERN stack**, **data-driven development**, and **AI-pow
 
 ### 🧩 Frameworks & Libraries  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,sklearn,numpy,pandas,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,sklearn,bootstrap,tailwind,numpy,pandas" />
 </p>
 
 ### 🗄️ Databases  
