@@ -18,17 +18,26 @@ With experience in the **MERN stack**, **data-driven development**, and **AI-pow
 
 ## 🚀 Skills & Technologies  
 
-### 💻 Programming Languages
-`Python` · `JavaScript` · `PHP` · `SQL`
+### 💻 Programming Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,php,mysql" />
+</p>
 
-### 🧩 Frameworks & Libraries
-`React.js` · `Node.js` · `Express.js` · `TensorFlow` · `scikit-learn` · `NumPy` · `Pandas` · `Bootstrap` · `Tailwind CSS`
+### 🧩 Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tensorflow,sklearn,numpy,pandas,bootstrap,tailwind" />
+</p>
 
-### 🗄️ Databases
-`MongoDB` · `MySQL` · `PostgreSQL`
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
 
-### 🛠️ Tools & Platforms
-`Git` · `GitHub` · `VS Code` · `Linux` · `Netlify` · `Hostinger` · `cPanel` · `EmailJS`
+### 🛠️ Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,netlify,hostinger,cpanel" />
+</p>
+
 
 ---
 
