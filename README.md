@@ -4,7 +4,7 @@
 🌍 **Adama, Ethiopia**  
 🎓 **BSc in Software Engineering (Class of 2025)** — *Adama Science and Technology University (ASTU)*  
 📧 **burukmaedot24@gmail.com** | 📞 **+251 970 30 8327**  
-🌐 [birukmaedot.com](https://birukmaedot.com/)  
+🌐 [burukebmt.github.io/birukmaedot.github.io/](https://burukebmt.github.io/birukmaedot.github.io/)  
 
 ---
 
